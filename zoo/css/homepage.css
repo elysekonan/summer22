@@ -1,9 +1,5 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: lightblue;
   text-align: center;
-}
-.link {
-  align-content: space-around;
-  align-items: center;
 }
