@@ -1,6 +1,9 @@
 body {
   font-family: Gill Sans, sans-serif;
   background-image: url("zoo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   background-color: rgba(0, 255, 0, 0.5);
   text-align: center;
 }
