@@ -3,3 +3,7 @@ body {
   background-color: silver;
   text-align: center;
 }
+img {
+  width: 300px;
+  height: 600px;
+}
