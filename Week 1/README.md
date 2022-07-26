@@ -1,2 +1,3 @@
-# summer22
-This is where my summer ITSE-2402 work goes
+# My personal zoo website
+This is my personal zoo website. You can visit animals and learn their 
+particularities.
